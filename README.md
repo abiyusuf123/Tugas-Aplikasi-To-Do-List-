@@ -10,6 +10,7 @@ C. Aplikasi ini adalah aplikasi ToDo List (daftar tugas) berbasis web dengan fit
     c) Mengedit tugas yang sudah ada.
     d) Menghapus tugas yang tidak diperlukan.
     e) Menandai tugas sebagai selesai.
+
 D. Bahasa Pemrograman: Dart, Framework: Flutter, Backend & Autentikasi: Firebase (Firebase Auth & Firestore)
 E. 1. Clone atau download proyek
    2. Install dependensi Flutter (flutter pub get)
