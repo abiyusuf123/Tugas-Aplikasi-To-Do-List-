@@ -16,9 +16,13 @@ C. Aplikasi ini adalah aplikasi ToDo List (daftar tugas) berbasis web dengan fit
 D. Bahasa Pemrograman: Dart, Framework: Flutter, Backend & Autentikasi: Firebase (Firebase Auth & Firestore)
 
 E. 1. Clone atau download proyek
+   
    2. Install dependensi Flutter (flutter pub get)
+  
    3. Jalankan emulator atau hubungkan perangkat fisik
+   
    4. Jalankan aplikasi (flutter run)
+  
    Catatan: Pastikan Firebase sudah dikonfigurasi pada proyek Flutter Anda (file google-services.json untuk Android)
 
 F. ![f1f0c465-0aaa-4e13-bd5b-9d70802f188b](https://github.com/user-attachments/assets/6c4bc2a7-de94-485c-bf9b-5c12b1cc86e1)
